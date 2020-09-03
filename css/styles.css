@@ -1,0 +1,22 @@
+img{
+  width: 250px;
+  height: 250px;
+}
+body{
+  background-color: aliceblue;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: 5px;
+  border-color: grey;
+  width: 7%;
+}
+
+h1{
+  color: darkred;
+}
+
+h3{
+  color: #00008b;
+}
